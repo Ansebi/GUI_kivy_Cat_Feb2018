@@ -5,7 +5,7 @@ This is a Hello-World script
 for truly custom buttons in kivy, python GUI library.
 
 ## Designation
-It demonstrates that in kivy you are not necesserily restricted with shape, color, etc.
+It demonstrates that in kivy you are not necessarily restricted with the shape, color, etc.
 With little effort you may have an interactive element of purely custom design.
 
 ## Use
